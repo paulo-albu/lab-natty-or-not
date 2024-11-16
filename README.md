@@ -23,16 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book sobre finanças pessoais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Leonardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o chatGPT elaborar um ebook de 05 páginas sobre finanças pessoais e pedi para o leonardo AI criar 04 imagens basedas com descrição do livro, mesma dada ao chatGPT
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://drive.google.com/file/d/1CbR3Au4-36XsJj_DjH3rdh1Hi7rhj_DA/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
